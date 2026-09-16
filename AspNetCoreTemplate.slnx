@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AspNetCoreTemplate.Application.Contract/AspNetCoreTemplate.Application.Contract.csproj" />
+  <Project Path="AspNetCoreTemplate.Application/AspNetCoreTemplate.Application.csproj" />
+  <Project Path="AspNetCoreTemplate.Domain/AspNetCoreTemplate.Domain.csproj" />
+  <Project Path="AspNetCoreTemplate.EntityFrameWorkCore/AspNetCoreTemplate.EntityFrameworkCore.csproj" />
+  <Project Path="AspNetCoreTemplate/AspNetCoreTemplate.Host.csproj" />
+</Solution>
